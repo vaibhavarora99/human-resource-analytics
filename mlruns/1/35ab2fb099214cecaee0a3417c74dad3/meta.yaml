@@ -1,0 +1,15 @@
+artifact_uri: ./mlflow-run/35ab2fb099214cecaee0a3417c74dad3/artifacts
+end_time: 1634860960135
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 35ab2fb099214cecaee0a3417c74dad3
+run_uuid: 35ab2fb099214cecaee0a3417c74dad3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1634860959723
+status: 4
+tags: []
+user_id: vaibhavarora
